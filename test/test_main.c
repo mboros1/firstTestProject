@@ -1,4 +1,4 @@
-#include "../src/main.h"
+#include "main.h"
 #include <unity.h>
 
 void setUp(void)
