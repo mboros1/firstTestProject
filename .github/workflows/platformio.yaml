@@ -21,4 +21,4 @@ jobs:
         pip install platformio
         
     - name: Build and run tests
-      run: pio test -e genericSTM32F411CE
+      run: pio test -e native
